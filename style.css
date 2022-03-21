@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    }
+    header {
+        text-align: center;
+        font-size: 1cm;
+    
+    
+    }
+    #bal{
+        background-color: red;
+        width: 174px;
+        height: 556px;
+        top: -3767px;
+        }
+    
+    .menü {
+    background-color: black;
+    width: auto;
+    height: 45px;
+    top: -3054px;
+    left: -732px;
+    color: white;
+    text-align: center;
+    font-size: 0.5cm;
+    }
+     
+    #jobb {
+    background-color: red;
+    width: 582px;
+    height: 1199px;
+    top: -3569px;
+    left: 321cm;
+    }
+    
+    .specifikációk {
+    background-color: gray;
+    width: 582px;
+    height: 55px;
+    text-justify: auto;
+    font-size: 0.6cm;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    }
+    
+    img {
+        left: -375px;
+    }
